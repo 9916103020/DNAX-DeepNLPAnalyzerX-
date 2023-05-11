@@ -328,7 +328,7 @@ Create website deployment-ready with minimal desktop application dependency.
 ## Project Owner
 
 
-#### Divyansh Srivastava, PS Engineer - II
+#### Divyansh Srivastava, Software Engineer - II
 
 <br />
 
